@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThomasGhila/p5-node-lesson.git"
+    "url": "git+https://github.com/ThomasGhila/2021-05-ThomasGhila.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThomasGhila/p5-node-lesson/issues"
+    "url": "https://github.com/ThomasGhila/2021-05-ThomasGhila/issues"
   },
-  "homepage": "https://github.com/ThomasGhila/p5-node-lesson#readme",
+  "homepage": "https://github.com/ThomasGhila/2021-05-ThomasGhila#readme",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.4.0"
