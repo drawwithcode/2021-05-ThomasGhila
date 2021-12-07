@@ -1,7 +1,7 @@
 {
   "name": "p5-node-lesson",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bootstrapped project using node and p5",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
